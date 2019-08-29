@@ -1,0 +1,12 @@
+## General
+# IDEA Code files
+.idea
+
+# build
+*build*
+
+# install
+install
+
+# models
+models
